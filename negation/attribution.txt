@@ -1,0 +1,4 @@
+Title of work: To teach a language model how to turn a sentence negative in the simplest form.
+Link to work: -
+License of the work: CC BY-NC-SA 4.0
+Creator names: Andrea Lo
