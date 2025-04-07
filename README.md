@@ -1,1 +1,1 @@
-# instructlab_skills
+# instructlab
